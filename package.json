@@ -1,0 +1,20 @@
+{
+  "name": "frontendstore_inicio",
+  "version": "1.0.0",
+  "description": "servicioCamisetas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Julian Roman",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.3"
+  }
+}
